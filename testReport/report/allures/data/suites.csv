@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Apr 12 18:59:04 CST 2024","Fri Apr 12 18:59:04 CST 2024","10","testCase","test_baidu","TestApi","","","test04_baidu",""
+"passed","Fri Apr 12 18:59:04 CST 2024","Fri Apr 12 18:59:04 CST 2024","74","testCase","test_baidu","TestApi","","","test02_baidu",""
+"passed","Fri Apr 12 18:59:04 CST 2024","Fri Apr 12 18:59:04 CST 2024","147","testCase","test_baidu","TestApi","","","test01_baidu",""
+"passed","Fri Apr 12 18:59:04 CST 2024","Fri Apr 12 18:59:04 CST 2024","205","testCase","test_baidu","TestApi","","","test03_baidu",""

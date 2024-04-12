@@ -1,0 +1,79 @@
+{
+  "abfc17cbf681e90b2723dd7341a1e8ec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "edd36c6691d4469b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712919544527,
+        "stop" : 1712919544732,
+        "duration" : 205
+      }
+    } ]
+  },
+  "8d40e3b9e2386c4ee8cbdaa4e8a97287" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1942c83de380cb3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712919544451,
+        "stop" : 1712919544525,
+        "duration" : 74
+      }
+    } ]
+  },
+  "eac939d725bdb89139d7da349f1047df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "65dfc46ad32080b8",
+      "status" : "broken",
+      "statusDetails" : "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='www.baidu.com2222', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x00000202F33E6EF0>: Failed to resolve 'www.baidu.com2222' ([Errno 11001] getaddrinfo failed)\"))",
+      "time" : {
+        "start" : 1712919544735,
+        "stop" : 1712919544745,
+        "duration" : 10
+      }
+    } ]
+  },
+  "ce32050d0d2e8ead0108c545c7ebe736" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7604226d6534cf9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712919544303,
+        "stop" : 1712919544450,
+        "duration" : 147
+      }
+    } ]
+  }
+}

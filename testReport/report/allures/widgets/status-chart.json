@@ -1,0 +1,41 @@
+[ {
+  "uid" : "65dfc46ad32080b8",
+  "name" : "test04_baidu",
+  "time" : {
+    "start" : 1712919544735,
+    "stop" : 1712919544745,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1942c83de380cb3f",
+  "name" : "test02_baidu",
+  "time" : {
+    "start" : 1712919544451,
+    "stop" : 1712919544525,
+    "duration" : 74
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7604226d6534cf9",
+  "name" : "test01_baidu",
+  "time" : {
+    "start" : 1712919544303,
+    "stop" : 1712919544450,
+    "duration" : 147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edd36c6691d4469b",
+  "name" : "test03_baidu",
+  "time" : {
+    "start" : 1712919544527,
+    "stop" : 1712919544732,
+    "duration" : 205
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
