@@ -1,12 +1,12 @@
 {
-  "uid" : "edd36c6691d4469b",
-  "name" : "test03_baidu",
-  "fullName" : "testCase.test_baidu.TestApi#test03_baidu",
-  "historyId" : "abfc17cbf681e90b2723dd7341a1e8ec",
+  "uid" : "2e91dce376ea4be6",
+  "name" : "test02_baidu",
+  "fullName" : "testCase.test_baidu.TestApi#test02_baidu",
+  "historyId" : "8d40e3b9e2386c4ee8cbdaa4e8a97287",
   "time" : {
-    "start" : 1712919544527,
-    "stop" : 1712919544732,
-    "duration" : 205
+    "start" : 1712938954777,
+    "stop" : 1712938955864,
+    "duration" : 1087
   },
   "status" : "passed",
   "flaky" : false,
@@ -26,7 +26,7 @@
     "value" : "DESKTOP-A9MVSTR"
   }, {
     "name" : "thread",
-    "value" : "11492-MainThread"
+    "value" : "14224-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -50,6 +50,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "edd36c6691d4469b.json",
+  "source" : "2e91dce376ea4be6.json",
   "parameterValues" : [ ]
 }
